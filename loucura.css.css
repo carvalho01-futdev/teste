@@ -1,0 +1,62 @@
+@charset "UTF-8";
+
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    text-align: center;
+    margin: 0px;
+}
+.loucura{
+    text-align: center;
+}
+nav{
+    text-align: center;
+    background-color: beige;
+}
+nav a{
+    text-decoration: none;
+    margin-right: 25px;
+}
+h2{
+    text-align: center;
+    margin: 0px;
+    
+}
+main{
+    text-align: justify;
+    
+}
+article{
+    border: 1px solid;
+    border-radius: 20px 30px;
+    box-shadow: 3px 2px blanchedalmond;
+    padding: 10px;
+    background-color: beige;
+}
+section{
+    display: flex;
+}
+.carros{
+    color: red;
+}
+header{
+    background-color: gray;
+    margin: 0;
+}
+footer{
+    background-color: gray;
+}
+p{
+    margin: 0px;
+}
+a{
+    margin: 0px;
+}
+.marca{
+    background-color: darkgrey;
+}
